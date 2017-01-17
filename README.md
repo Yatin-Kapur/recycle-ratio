@@ -1,1 +1,5 @@
-# recycle-ratio
+# Recycle Ratio
+
+The recycle ratio graphed as a function of the % of possession highlights that teams with more possession have generally more commanding midfielders, in that they make more forward passes per defensive action, which is the recycle ratio.
+
+The statistics stand for the 2015-16 Premier League season, with an R^2 value of 0.6422.
