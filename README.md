@@ -6,6 +6,6 @@ The statistics stand for the 2015-16 Premier League season, with an R^2 value of
 
 ## Graph:
 
-This is what it rougly looks like, with the macros (in the preamble) it's fairly easy to play around with the absolute spacing and orientation of the section, the <++> signs indicate that the field needs to have content entered in it.
+Sample: 16 players, PL season 2015-16
 
 ![alt text](https://github.com/Yatin-Kapur/recycle-ratio/blob/master/rr.jpeg "Points Plotted for Key Midfielders in Premier Leagues")
